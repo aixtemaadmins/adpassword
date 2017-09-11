@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-11 09:52+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: adpassword_change.py:66 ADpassword.py:81
+msgid "AD Password"
+msgstr "Domain Passwort"
+
+#: adpassword_change.py:75
+msgid "Old Password"
+msgstr "Altes Passwort"
+
+#: adpassword_change.py:82
+msgid "New Password"
+msgstr "Neues Passwort"
+
+#: adpassword_change.py:96
+msgid "Repeat New Password"
+msgstr "Neues Passwort wiederholen"
+
+#: adpassword_change.py:116
+msgid "Ok"
+msgstr "Ok"
+
+#: adpassword_change.py:122 ADpassword.py:104
+msgid "Cancel"
+msgstr "Abbruch"
+
+#: adpassword_change_support.py:14
+msgid "Error: passwords do not match"
+msgstr "Error: Passwort ist nicht identisch"
+
+#: adpassword_change_support.py:27
+msgid "Error: wrong old password"
+msgstr "Error: altes Passwort ist Falsch"
+
+#: adpassword_change_support.py:32
+msgid "Error: wrong new password"
+msgstr "Error: Falsches neues Passwort"
+
+#: adpassword_change_support.py:37
+msgid "Error: password rejected"
+msgstr "Error: Passwort verweigert"
+
+#: ADpassword.py:12
+msgid "Check AD password expiration"
+msgstr "Domain Passswort ablauf check"
+
+#: ADpassword.py:13
+msgid "DAYS"
+msgstr "Tage"
+
+#: ADpassword.py:13
+msgid "days an alert will show up before password expiration"
+msgstr "Tage bis eine Warnung zu einem Abgelaufenem Passwort kommt"
+
+#: ADpassword.py:14
+msgid "USER"
+msgstr "Benutzer"
+
+#: ADpassword.py:14
+msgid "AD username, if it is not the login one"
+msgstr "Domain Name, wenn es nicht der Aktuelle User ist"
+
+#: ADpassword.py:98
+msgid "Change Password"
+msgstr "Passwort ändern"
+
+#: ADpassword.py:118
+msgid "Unknown user or domain"
+msgstr "Unbekannter Benuter oder Domain"
+
+#: ADpassword.py:127
+msgid "Your password will expire in "
+msgstr "Das Passwort läuft ab in "
+
+#: ADpassword.py:127
+msgid " days"
+msgstr " tagen"
+
+#: ADpassword.py:133
+msgid "Your password expired "
+msgstr "Das Passwort ist abgelaufen "
+
+
+#: ADpassword.py:133
+msgid " days ago"
+msgstr " tagen"
+
+
+
+#: adpassword_support.py:35
+msgid "LDAP Server:"
+msgstr "LDAP Server:"
+
+#: adpassword_support.py:56
+msgid "Password Must Change:"
+msgstr "Passwort muss geändert werdenn:"
+
